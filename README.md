@@ -16,5 +16,5 @@ The dataset for this project is [the classified data](https://github.com/Kshriva
 
 # References
 
-(Pierian data)[www.pierian.com)
+[Pierian data](https://www.pieriandata.com/)
 
